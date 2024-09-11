@@ -1,10 +1,3 @@
-
-function sumNumbers(n) {
-    let sum = 2;
-    let i = 4;
-    while (i <= n) {
-      sum += i;
-      i++;
-    }
-    return sum;
-  }
+for(let i=1; 1>=5; i--){
+  console.log(i);
+}
